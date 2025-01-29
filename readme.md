@@ -1,6 +1,3 @@
-# inspector-image
-by: Egil Viira  
-
 ## Running the project:
 - [install pipenv](https://pipenv.pypa.io/en/latest/installation.html#pipenv-installation)
 - install dependencies: `pipenv install`
